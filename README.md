@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="icon.png" alt="FD-SoulEngine logo" width="550"/>
+  <img src="logo.png" alt="FD-SoulEngine logo" width="550"/>
 </p>
 
 
