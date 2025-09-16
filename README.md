@@ -73,15 +73,9 @@ int main(void){
 ## Структура проекта
 ``` text
 /FD-SoulEngine
-	/Engine
-		/src - исходный код
-		/lib - сторонние библиотеки
-		/include - заголовочные файлы
-	/Games - проекты которые используют FD-SoulEngine
-	/Tests
-		/audio
-		/sprite2d
-		/shader
+	/src - исходный код
+	/lib - сторонние библиотеки
+	/include - заголовочные файлы
 ```
 
 ---
