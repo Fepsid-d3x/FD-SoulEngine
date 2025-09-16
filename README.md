@@ -89,6 +89,14 @@ int main(void){
 - glfw (https://www.glfw.org/)
 
 ---
+
+## Обратная связь
+Если у вас есть идеи, советы или вопросы по FD-SoulEngine, вы можете:  
+- Оставить комментарий или открыть Issue/Discussion на GitHub.  
+- Написать мне в Telegram: [@Fepsid](https://t.me/Fepsid)
+
+---
+
 ## License
 FD-SoulEngine is licensed under the Apache License 2.0.  
 See the [LICENSE](./LICENSE) file for details.
